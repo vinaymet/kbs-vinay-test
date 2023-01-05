@@ -17,4 +17,4 @@ def hello():
 
 if __name__ == '__main__':
     # Run the app server on localhost:4449
-    app.run('18.206.35.177', 4449)
+    app.run()
